@@ -1,0 +1,20 @@
+[
+  {
+    "titre": "Le Seigneur des Anneaux",
+    "auteur": "J.R.R. Tolkien",
+    "isbn": "978-3-16-148410-0",
+    "disponible": true
+  },
+  {
+    "titre": "Le Hobbit",
+    "auteur": "J.R.R. Tolkien",
+    "isbn": "978-3-16-148411-7",
+    "disponible": false
+  },
+  {
+    "titre": "Harry Potter \u00e0 l'\u00e9cole des sorciers",
+    "auteur": "J.K. Rowling",
+    "isbn": "978-2-07-053426-8",
+    "disponible": true
+  }
+]
