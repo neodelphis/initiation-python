@@ -17,8 +17,8 @@ Tu as deux listes de nombres. Tu dois :
 4. Retourner uniquement les nombres pairs.
 
 ```python
-liste1 = [3, 7, 10, 15, 2]
-liste2 = [5, 10, 20, 3]
+liste_1 = [3, 7, 10, 15, 2]
+liste_2 = [5, 10, 20, 3]
 
 # Ton code ici
 ```
